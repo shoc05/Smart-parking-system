@@ -1,4 +1,4 @@
-# Smart Parking & ANPR System for Bhutan
+# Smart Parking System for Bhutan In collaboration with Jordhen Deepmind System
 
 ---
 
